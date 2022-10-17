@@ -11,11 +11,11 @@
 
 - 💬 Me pergunte sobre **Machine Learning, Time Series, Data analisys, Estatística em general**
 
-- 📫 How to reach me **yuri.r.valete@gmail.com**
+- 📫 Contato **yuri.r.valete@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/Valete/](https://www.linkedin.com/in/Valete/)
+- 📄 Meus perfis [https://www.linkedin.com/in/Valete/](https://www.linkedin.com/in/Valete/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me adiciona lá :D :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/valete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valete" height="30" width="40" /></a>
 </p>
