@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuri Reis Valete</h1>
+<h1 align="center">Olá 👋, Eu sou Yuri Reis Valete</h1>
 <h3 align="center">Estatístico e Cientista de Dados formado pela Universidade de São Paulo. Apaixonado pela área e pela minha cachorrinha Aurora</h3>
 
 - 🔭 Atualmente estou no projeto [Holidays](https://github.com/Valete-y/Holidays)
