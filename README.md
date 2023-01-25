@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Yuri Reis Valete</h1>
 <h3 align="center">Estatístico e Cientista de Dados formado pela Universidade de São Paulo. Apaixonado pela área e pela minha cachorrinha Aurora</h3>
 
-- 🔭 Atualmente estou realizando competições de Data Science
+- 🔭 Atualmente estou trabalhando como cientista de dados 1 na Oper
 
-- 🌱 Estou aprendendo **Dashboards interativos em Python**
+- 🌱 Estou aprendendo **PySpark⭐**
 
 - 👯 Vou voltar a colaborar em [Dados sobre a indústria da música](https://github.com/eduardoprospero/Analise-de-dados-musicais)
                                 [Holidays](https://github.com/Valete-y/Holidays)
